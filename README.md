@@ -1,5 +1,5 @@
 # Hi, I'm Marc-kender👋
-I am a student of **Computer science** na **Universidade Federal da Fronteira Sul, Campus Chapéco**
+Student of **Computer science** na Universidade Federal da Fronteira Sul, Campus Chapéco
 - I'm a front-end developer  👨🏻‍💻.
 
 <!--
