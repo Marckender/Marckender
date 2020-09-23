@@ -1,6 +1,6 @@
-### Hi, 👋
-
-## I'm Marc-kender, 👋
+# Hi, I'm Marc-kender👋
+I am a student of **Computer science** na **Universidade Federal da Fronteira Sul, Campus Chapéco**
+- I'm a front-end developer  👨🏻‍💻.
 
 <!--
 **Makender103/Makender103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
