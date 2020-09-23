@@ -1,6 +1,6 @@
 ### Hi, 👋
 
-## Eu sou Marc-kender, 👋
+## I'm Marc-kender, 👋
 
 <!--
 **Makender103/Makender103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
