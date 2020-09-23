@@ -2,6 +2,10 @@
 Student of **Computer science** at Universidade Federal da Fronteira Sul, Campus Chapéco
 - I'm a front-end developer  👨🏻‍💻.
 
+
+# Git
+![Marckender 's github stats](https://github-readme-stats.vercel.app/api?username=Makender103&show_icons=true&theme=dracula)
+
 <!--
 **Makender103/Makender103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
