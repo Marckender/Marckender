@@ -1,7 +1,9 @@
  <h1 align="center">Hi 👋, I'm Marc-kender</h1>
 
-Student of **Computer science** at Universidade Federal da Fronteira Sul, Campus Chapéco
+<p align="center"> Student of **Computer science** at Universidade Federal da Fronteira Sul, Campus Chapéco </p>
+
 - I'm a front-end developer  👨🏻‍💻.
+- 💬 Ask me about **JavaScript, HTML, CSS,React,Python, SQL**  
 
 ### Reach me out👇
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marckender/)](https://www.linkedin.com/in/marckender/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-FD1D1D?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/makender103/)](https://www.instagram.com/makender103/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Makender103/)](https://www.twitter.com/Makender103/)
