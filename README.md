@@ -1,12 +1,12 @@
- <h1 align="center">Hi 👋, I'm Marc-kender</h1>
+ <h1 align="center">Hi👋🏾, I'm Marc-kender</h1>
 
-<h1 align="center"> I am a student of <i>Computer science</i>  na <i>Universidade Federal da Fronteira Sul, Campus Chapéco<i> </h1>
+<h1 align="center"> Student of <i>Computer Science</i>  👉🏾 <i>"Universidade Federal da Fronteira Sul ",  Campus Chapéco<i> </h1>
 
-- I'm a front-end developer  👨🏻‍💻.
-- 💬 Ask me about **JavaScript, HTML, CSS,React,Python, SQL**  
+- I'm a front-end developer  👨🏻‍💻.   
+ - 💬 Ask me about **JavaScript, HTML,  CSS, React, Python, SQL**  
 
-### Reach me out👇
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marckender/)](https://www.linkedin.com/in/marckender/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-FD1D1D?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/makender103/)](https://www.instagram.com/makender103/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Makender103/)](https://www.twitter.com/Makender103/)
+### Reach me out 👉🏾 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marckender/)](https://www.linkedin.com/in/marckender/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-FD1D1D?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/makender103/)](https://www.instagram.com/makender103/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Makender103/)](https://www.twitter.com/Makender103/)
+
 ## Tools that i use
 
  <p align="center">
@@ -16,10 +16,10 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="20"/>
 </p>
-
--<p align="center">
+|<p align="center">
 ![Marckender 's github stats](https://github-readme-stats.vercel.app/api?username=Makender103&show_icons=true&theme=dracula)
 </p>
+
 
 <!--
 **Makender103/Makender103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
