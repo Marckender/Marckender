@@ -1,6 +1,6 @@
  <h1 align="center">Hi👋🏾, I'm Marc-kender</h1>
 
-<h1 align="center"> Student of <i>Computer Science</i>  👉🏾 <i>"Universidade Federal da Fronteira Sul ",  Campus Chapéco<i> </h1>
+<h3 align="center"> Student of <i>Computer Science</i>  👉🏾 <i>"Universidade Federal da Fronteira Sul ",  Campus Chapéco<i> </h3>
 
 - I'm a front-end developer  👨🏻‍💻.   
  - 💬 Ask me about **JavaScript, HTML,  CSS, React, Python, SQL**  
