@@ -1,4 +1,5 @@
-# Hi, I'm Marc-kender👋
+ <h1 align="center">Hi 👋, I'm Marc-kender</h1>
+
 Student of **Computer science** at Universidade Federal da Fronteira Sul, Campus Chapéco
 - I'm a front-end developer  👨🏻‍💻.
 
