@@ -2,6 +2,8 @@
 Student of **Computer science** at Universidade Federal da Fronteira Sul, Campus Chapéco
 - I'm a front-end developer  👨🏻‍💻.
 
+### Reach me out👇
+![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marckender/)  	 ![Instagram Badge](https://img.shields.io/badge/-Instagram-FD1D1D?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/makender103/)![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Makender103/)
 
 # Git
 ![Marckender 's github stats](https://github-readme-stats.vercel.app/api?username=Makender103&show_icons=true&theme=dracula)
