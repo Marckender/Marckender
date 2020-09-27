@@ -14,7 +14,7 @@ Student of **Computer science** at Universidade Federal da Fronteira Sul, Campus
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="20"/>
 </p>
 
-------------------------------------------------------------------------------------------------------<p align="center">
+-<p align="center">
 ![Marckender 's github stats](https://github-readme-stats.vercel.app/api?username=Makender103&show_icons=true&theme=dracula)
 </p>
 
