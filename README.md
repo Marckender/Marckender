@@ -2,7 +2,7 @@
 
 <h3 align="center"> Student of <i>Computer Science</i>  👉🏾 <i>"Universidade Federal da Fronteira Sul ",  Campus Chapéco<i> </h3>
 
-<p align="center1.
+<p align="center>
 - I'm a front-end developer  👨🏻‍💻.   
 - 💬 Ask me about **JavaScript, HTML,  CSS, React, Python, SQL**
 </p>
