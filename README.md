@@ -24,11 +24,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="50" />
 </p>
 
-|<p align="center">
-![Jod F. Pierre 's github stats](https://github-readme-stats.vercel.app/api?username=makender103&show_icons=true&theme=dracula)
-</p>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makender103&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Marckender Jn Charles's github stats](https://github-readme-stats.vercel.app/api?username=makender103&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makender103&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
