@@ -1,4 +1,4 @@
- <h1 align="center">Hi👋🏾, I'm Marc-kender</h1>
+ <h1 align="center">Hi👋🏾, I'm Marc-kender R. Jean-Charles</h1>
 
 <h3 align="center"> Student of <i>Computer Science</i>  👉🏾 <i>"Universidade Federal da Fronteira Sul ",  Campus Chapecó<i> </h3>
 
