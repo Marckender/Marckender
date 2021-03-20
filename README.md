@@ -27,8 +27,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
 </p>
 
-|<p align="center">
-![Marckender 's github stats](https://github-readme-stats.vercel.app/api?username=Makender103&show_icons=true&theme=dracula)
+|<p>
+ |<p align="left">
+ ![Marckender 's github stats](https://github-readme-stats.vercel.app/api?username=Makender103&show_icons=true&theme=dracula)
+ </p>
+ |<p align="right">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodfedlet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ </p>
 </p>
 
 
