@@ -27,7 +27,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
 </p>
 
- |<p align="right">
+<p align="right">
 ![Jod F. Pierre 's github stats](https://github-readme-stats.vercel.app/api?username=makender103&show_icons=true&theme=dracula)
 </p>
 
