@@ -20,10 +20,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/java-original-wordmark.svg" alt="java" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50" />
 </p>
 
-|<p align="right">
+|<p align="center">
 ![Jod F. Pierre 's github stats](https://github-readme-stats.vercel.app/api?username=makender103&show_icons=true&theme=dracula)
 </p>
 
