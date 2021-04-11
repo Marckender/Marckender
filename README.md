@@ -2,7 +2,7 @@
 
 <h3 align="center"> Student of <i>Computer Science</i>  👉🏾 <i>"Universidade Federal da Fronteira Sul ",  Campus Chapecó<i> </h3>
 
-- I'm a Front-end developer  👨🏻‍💻.   
+- I'm a Javascript developer  👨🏻‍💻.   
 - 💬 Ask me about **Python, JavaScript, HTML, CSS, React, VueJs, SASS, Bootstrap, Materialize**
 - 📫 My Email  👉🏾 **makender103@gmail.com**
 - 💬 My Team  💻 **https://www.mjcode.net/**
