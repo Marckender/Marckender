@@ -28,10 +28,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="50" />
 </p>
 
-![Marckender Jn Charles's github stats](https://github-readme-stats.vercel.app/api?username=marckender&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=17)
+<!-- ![Marckender Jn Charles's github stats](https://github-readme-stats.vercel.app/api?username=marckender&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=17)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marckender&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
-
-
+ -->
+<div align="center">
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marckender&theme=tokyonight"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=marckender&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckender&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=marckender&theme=tokyonight&hide_border=true"/>
+</div>
 <!--
 **Makender103/Makender103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
