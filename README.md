@@ -16,8 +16,7 @@
   <a href="https://twitter.com/makender103" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href = "mailto:makender103@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-9984DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<!--   <a href = "mailto:makender103@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
 <!--   <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> -->
  <a href="https://t.me/Makender103" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="http://marckender.me/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
@@ -41,9 +40,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="50" />
 </p>
 
-<!-- ![Marckender Jn Charles's github stats](https://github-readme-stats.vercel.app/api?username=marckender&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=17)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marckender&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
- -->
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marckender&theme=tokyonight"/> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marckender&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckender&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=marckender&theme=tokyonight&hide_border=true"/>
