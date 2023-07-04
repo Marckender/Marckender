@@ -27,6 +27,6 @@
 </div>
 
 <div align="center">
-<img height="100em" width="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marckender&theme=tokyonight"/> 
-<img height="100em" width="200em" src="https://github-readme-stats.vercel.app/api?username=marckender&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckender&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=marckender&theme=tokyonight&hide_border=true"/>
+<img height="100em" width="320em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marckender&theme=tokyonight"/> 
+<img height="100em" width="220em" src="https://github-readme-stats.vercel.app/api?username=marckender&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckender&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=marckender&theme=tokyonight&hide_border=true"/>
 </div>
