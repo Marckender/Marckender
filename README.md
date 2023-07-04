@@ -1,15 +1,15 @@
+ <h2 align="center">Hi👋🏾, I'm Marc-kender R. Jean-Charles</h2>
+<h5 align="center"> Full Stack Javascript Developer | Software Enginneer</h5>
+<i>My areas of interest are Software Engineering, Software Architecture, Cloud Computing. <i/>
 
- <h1 align="center">Hi👋🏾, I'm Marc-kender R. Jean-Charles</h1>
+💼 Currently, I work as a software Engineer at *CompassUOL* and collaborate weekly at MJcode Group, a digital agency specializing in web and mobile software development.
+## Here are some of my other stacks or interests:
+- **Programming**: Data structures, C, Java, Python, JavaScript, TypeScript.
+- **Back-end**: NodeJS.
+- **DataBases**: SQL, MySQL | NoSQL, MongoDB.
+- **Others**: Docker, Heroku, HTML5, CSS3, SASS, Vuejs, Vuex, ContextAPI, ReactJs, NextJS, NuxtJS, DDD.
 
-<h3 align="center"> Student of <i>Computer Science</i>  👉🏾 <i>"Universidade Federal da Fronteira Sul ",  Campus Chapecó<i> </h3>
-
-- I'm a Javascript developer  👨🏻‍💻.   
-- 💬 Ask me about **Python, JavaScript, Typescript, NodeJS, React, NextJS, VueJs, SASS, Bootstrap, Materialize**
-- ✉ My Email  👉🏾 **makender103@gmail.com**
-- 💻 My Team **https://www.mjcodegroup.com/**
-- 💻 My Blog **https://www.marckender.me/**
-
-### Reach me out 👉🏾 
+### Reach me out:
  <div>
    <a href="https://www.linkedin.com/in/marckender" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -26,36 +26,7 @@
   <a href="http://marckender.me/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
 
-## Tools that i use
- <p align="center">
- <img align="center" alt="Angemy-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30" />
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
-</p>
-
 <div align="center">
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marckender&theme=tokyonight"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=marckender&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckender&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=marckender&theme=tokyonight&hide_border=true"/>
+<img height="100em" width="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marckender&theme=tokyonight"/> 
+<img height="100em" width="200em" src="https://github-readme-stats.vercel.app/api?username=marckender&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckender&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=marckender&theme=tokyonight&hide_border=true"/>
 </div>
-<!--
-**Makender103/Makender103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
