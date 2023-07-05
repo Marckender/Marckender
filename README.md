@@ -1,5 +1,5 @@
  <h2 align="center">Hi👋🏾, I'm Marc-kender R. Jean-Charles</h2>
-<h5 align="center"> Full Stack Javascript Developer | Software Enginneer</h5>
+<h5 align="center"> Full Stack Javascript Developer | Software Engineer</h5>
 <i>My areas of interest are Software Engineering, Software Architecture, Cloud Computing. <i/>
 
 💼 Currently, I work as a software Engineer at *CompassUOL* and collaborate weekly at MJcode Group, a digital agency specializing in web and mobile software development.
