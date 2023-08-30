@@ -7,7 +7,8 @@
 - **Programming**: Data structures, C, Java, Python, JavaScript, TypeScript.
 - **Back-end**: NodeJS.
 - **DataBases**: SQL, MySQL | NoSQL, MongoDB.
-- **Others**: Docker, Heroku, HTML5, CSS3, SASS, Vuejs, Vuex, ContextAPI, ReactJs, NextJS, NuxtJS, DDD.
+- **Unit Test**: Jest, Cypress.
+- **Others**: Docker, Heroku, HTML5, CSS3, SASS, Vuejs, Vuex, ContextAPI, ReactJs, NextJS, NuxtJS.
 
 ### Reach me out:
  <div>
