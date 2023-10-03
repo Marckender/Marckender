@@ -32,8 +32,8 @@
   
 
 <div align="center">
-	<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marckender&theme=tokyonight"/> 
-	<img src="https://github-readme-stats.vercel.app/api?username=marckender&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/>
+	<img height="150em" width="420em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marckender&theme=tokyonight"/> 
+	<img height="150em"  width="320em" src="https://github-readme-stats.vercel.app/api?username=marckender&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/>
   </div>
     <br />
 	 <div align="center" >
